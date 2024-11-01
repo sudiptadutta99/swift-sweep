@@ -1,0 +1,3 @@
+SwiftSweep is a CLI tool designed to eliminate all node_modules directories across designated project paths, achieving a significant reduction in local storage consumption and optimizing system performance. For developers working on multiple Node.js projects, node_modules directories can quickly accumulate and take up valuable disk space, slowing down system performance and cluttering storage.
+
+SwiftSweep automates the process by scanning specified project directories and identifying every instance of node_modules. With a single command, users can clear all detected directories, freeing up storage without the hassle of manual deletion. This results in a leaner file structure, faster file indexing, and a smoother, more efficient system.
